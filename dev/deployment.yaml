@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: dockerhub1126/hiring-app:20
+        image: dockerhub1126/hiring-app:31
         ports:
         - containerPort: 8080
