@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sheroon/hiring:21
+        image: sheroon/hiring:14
         ports:
         - containerPort: 8080
