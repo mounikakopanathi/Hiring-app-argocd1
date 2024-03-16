@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: dockerhub1126/hiring-app:31
+        image: kubehussain/amzclone:latest
         ports:
         - containerPort: 8080
